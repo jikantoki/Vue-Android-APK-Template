@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vue-test20250201</string>
+    <string name="title_activity_main">vue-test20250201</string>
+    <string name="package_name">xyz.enoki.vue.test</string>
+    <string name="custom_url_scheme">xyz.enoki.vue.test</string>
+</resources>
