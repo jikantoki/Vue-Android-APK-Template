@@ -14,7 +14,9 @@ Capacitor ってやつを使用
 - Pug
 - SCSS/SASS
 - Capacitor
+- Capacitor の PWA/Toast 機能
 - Google Fonts
+- ライブリロードをサポート
 - 試しに作ってみた APK ファイル
 
 ## 対応 OS
