@@ -4,6 +4,8 @@
 </template>
 
 <script>
+import { App } from '@capacitor/app'
+import { Toast } from '@capacitor/toast'
 export default {
   name: 'App',
 
@@ -13,6 +15,12 @@ export default {
 
   mounted() {
     document.title = 'Vue APK'
+
+    App.addListener('backButton', () => {
+      console.log('back!')
+      Toast.show({ text: 'Back!' })
+      this.$router.back()
+    })
   },
 }
 </script>

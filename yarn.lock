@@ -873,6 +873,11 @@
   resolved "https://registry.npmjs.org/@capacitor/android/-/android-7.0.1.tgz"
   integrity sha512-jukJJHfkcyEBOkFBJRD3EwXMIIQo7lSv0ExPWgsIliPdGXLAj6ElvK2JaYEzec3vKyLc4RTNFVv0PMEU0vnImg==
 
+"@capacitor/app@^7.0.0":
+  version "7.0.0"
+  resolved "https://registry.npmjs.org/@capacitor/app/-/app-7.0.0.tgz"
+  integrity sha512-/UFwfPFsw/Jen6vjrV0lfTBOQWSaDDdmrYXKpYg4Xn8hwj0xrrRPXxC43j7VmPoj9AFMVPA+hx94ygqjChPASQ==
+
 "@capacitor/cli@^7.0.1":
   version "7.0.1"
   resolved "https://registry.npmjs.org/@capacitor/cli/-/cli-7.0.1.tgz"
@@ -896,12 +901,17 @@
     tslib "^2.8.1"
     xml2js "^0.6.2"
 
-"@capacitor/core@^7.0.0", "@capacitor/core@^7.0.1":
+"@capacitor/core@^7.0.0", "@capacitor/core@^7.0.1", "@capacitor/core@>=7.0.0":
   version "7.0.1"
   resolved "https://registry.npmjs.org/@capacitor/core/-/core-7.0.1.tgz"
   integrity sha512-1Ob9bvA/p8g8aNwK6VesxEekGXowLVf6APjkW4LRnr05H+7z/bke+Q5pn9zqh/GgTbIxAQ/rwZrAZvvxkdm1UA==
   dependencies:
     tslib "^2.1.0"
+
+"@capacitor/toast@^7.0.0":
+  version "7.0.0"
+  resolved "https://registry.npmjs.org/@capacitor/toast/-/toast-7.0.0.tgz"
+  integrity sha512-HsJ6nn1h+Ucm/actgA9bZhI5FOXKh3oFb3wiDYGB0xdnV+6U8rJu+xR1MUdVwM7opAXHuozjFi06FvnZ6gVO4w==
 
 "@discoveryjs/json-ext@0.5.7":
   version "0.5.7"
@@ -957,6 +967,11 @@
     "@ionic/utils-terminal" "2.3.5"
     debug "^4.0.0"
     tslib "^2.0.1"
+
+"@ionic/pwa-elements@^3.3.0":
+  version "3.3.0"
+  resolved "https://registry.npmjs.org/@ionic/pwa-elements/-/pwa-elements-3.3.0.tgz"
+  integrity sha512-vbykpxd2nGRlA67AnqDwsiVf8PUmInLyi6lQdnPDjeiML1WZa0CPe6r632nGDV9PTi+sWNde9Xexg9SD6Pwyqw==
 
 "@ionic/utils-array@2.1.6":
   version "2.1.6"

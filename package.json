@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "@capacitor/android": "^7.0.1",
+    "@capacitor/app": "^7.0.0",
     "@capacitor/core": "^7.0.1",
+    "@capacitor/toast": "^7.0.0",
+    "@ionic/pwa-elements": "^3.3.0",
     "@mdi/font": "5.9.55",
     "core-js": "^3.8.3",
     "google-fonts-webpack-plugin": "^0.4.4",

@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "xyz.enoki.vue.test"
+    namespace "xyz.enoki.vue.app"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "xyz.enoki.vue.test"
+        applicationId "xyz.enoki.vue.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

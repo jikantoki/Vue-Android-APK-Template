@@ -1,4 +1,4 @@
-package xyz.enoki.vue.test;
+package xyz.enoki.vue.app;
 
 import com.getcapacitor.BridgeActivity;
 
