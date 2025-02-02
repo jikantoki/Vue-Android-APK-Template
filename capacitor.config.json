@@ -1,5 +1,5 @@
 {
-  "appId": "xyz.enoki.vue.test",
-  "appName": "vue-test20250201",
+  "appId": "xyz.enoki.vue.app",
+  "appName": "Vue App",
   "webDir": "dist"
 }
