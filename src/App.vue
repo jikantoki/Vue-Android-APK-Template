@@ -1,9 +1,7 @@
-<template>
-  <v-app>
-    <v-main>
-      <HelloWorld/>
-    </v-main>
-  </v-app>
+<template lang="pug">
+  v-app
+    v-main
+      HelloWorld
 </template>
 
 <script>
