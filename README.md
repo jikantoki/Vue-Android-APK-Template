@@ -26,6 +26,7 @@ Android
 
 ```shell
 yarn install
+npm install #何故か必要だった
 ```
 
 ### ブラウザ上での動作確認
