@@ -29,16 +29,25 @@ Android
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### ブラウザ上での動作確認
 
 ```shell
 yarn serve
 ```
 
-### Compiles and minifies for production
+### APK ファイルにソースを反映
 
 ```shell
 yarn build
+```
+
+### Android 用にコンパイル
+
+```shell
+npx cap init #初期設定
+npx cap add android #初回のみ必要
+npx cap sync #データ同期
+npx cap open android #Android Studioが起動、ライブリロード対応
 ```
 
 ### Lints and fixes files
