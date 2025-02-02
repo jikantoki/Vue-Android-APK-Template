@@ -9,6 +9,8 @@ Capacitor ってやつを使用
 ## Included
 
 - Vue
+- Vuetify
+- Vue-router
 - Pug
 - SCSS/SASS
 - Capacitor
