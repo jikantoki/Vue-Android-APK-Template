@@ -14,6 +14,7 @@ Capacitor ってやつを使用
 - Pug
 - SCSS/SASS
 - Capacitor
+- Google Fonts
 - 試しに作ってみた APK ファイル
 
 ## 対応 OS

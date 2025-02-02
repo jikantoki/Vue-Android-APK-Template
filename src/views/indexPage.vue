@@ -1,6 +1,8 @@
 <template lang="pug">
   v-main
     HelloWorld
+  router-link(to='/sub')
+    v-btn Go to sub page
 </template>
 
 <script>
