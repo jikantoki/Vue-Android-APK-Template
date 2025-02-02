@@ -15,7 +15,6 @@ Capacitor ってやつを使用
 - SCSS/SASS
 - Capacitor
 - Capacitor の PWA/Toast 機能
-- Google Fonts
 - ライブリロードをサポート
 - 試しに作ってみた APK ファイル
 

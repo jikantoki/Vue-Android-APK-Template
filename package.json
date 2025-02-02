@@ -15,7 +15,6 @@
     "@ionic/pwa-elements": "^3.3.0",
     "@mdi/font": "5.9.55",
     "core-js": "^3.8.3",
-    "google-fonts-webpack-plugin": "^0.4.4",
     "pug-plain-loader": "^1.1.0",
     "roboto-fontface": "*",
     "sass": "^1.83.4",
